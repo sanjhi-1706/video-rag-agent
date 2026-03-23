@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+streamlit
+yt-dlp
+openai-whisper
+torch
+sentence-transformers
+faiss-cpu
+transformers
+redis
+rq
+python-dotenv
+rank-bm25
+opencv-python
+pillow
